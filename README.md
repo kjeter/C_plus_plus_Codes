@@ -1,1 +1,2 @@
-# Various C++ Code I developed from my Computer Science I and II course at Fordham University 
+#C++ Codes
+Various C++ codes I developed from my Computer Science I and II courses at Fordham University. 
